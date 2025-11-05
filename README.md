@@ -81,6 +81,7 @@ git clone https://github.com/virusneo1997-del/college-linux-admin-course.git
 ## 📩 
 
 📞 Поддержка
+
 🐛 Сообщить о проблеме
 
 ❓ Задать вопрос
