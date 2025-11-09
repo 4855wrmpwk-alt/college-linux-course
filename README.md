@@ -78,6 +78,11 @@ git clone https://github.com/virusneo1997-del/college-linux-admin-course.git
 3. [Урок 3: Веб-сервер Nginx](./lessons/03-web-server/README.md)
 4. [Урок 4: Мониторинг системы](./lessons/04-monitoring/README.md)
 
+## Полезная информация и справки
+
+- [Система контроля версий](https://github.com/kaldyrr/compendiums_for_my_students/tree/main/git_guide_plus)
+- [Ubuntu Server 22.04 LTS](https://documentation.ubuntu.com/server/) (возможно позже, будет гайд на подобии гайда по системе контроля версий)
+
 ## 📩 
 
 📞 Поддержка
